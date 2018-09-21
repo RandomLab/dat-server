@@ -1,0 +1,11 @@
+{
+  "name": "dat-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RandomLab/dat-server.git",
+  "author": "jeremien <jeremie.nuel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dat-node": "^3.5.13"
+  }
+}
