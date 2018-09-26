@@ -13,8 +13,8 @@ A dat:// network between media labs
 
 ## Add a dat to the network
 
-/Write me/
+*Write me*
 
 ## Share
 
-/Write me/
+*Write me*
